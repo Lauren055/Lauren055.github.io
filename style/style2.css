@@ -1,0 +1,20 @@
+body {
+	font-family: "Marker Felt"
+}
+nav.olive a:visited {
+	color: olive;
+}
+
+nav.olive a:link {
+	color: olive;
+}
+
+nav.olive a:hover {
+	color: olive;
+	
+}
+
+
+h1 {
+    font-family: "Apple Chancery", Times, serif;
+}

@@ -1,0 +1,18 @@
+body {
+	background: url("../image/az.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.blue {
+	color: white;
+}
+.yellow {
+	color: yellow;
+}
+.enter-btn {
+	font-size: 56px;
+	margin-top: 200px;
+}
+.title {
+	font-size: 60px;
+}
