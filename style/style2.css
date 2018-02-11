@@ -1,4 +1,4 @@
-body {
+nav {
 	font-family: "Marker Felt"
 }
 nav.olive a:visited {
@@ -11,10 +11,23 @@ nav.olive a:link {
 
 nav.olive a:hover {
 	color: olive;
-	
+}
+img {
+	margin-left: 600px
+	margin-top: 400px;
+}
+.red {
+	color: red;
+}
+.grey {
+	color: grey;
+	margin-bottom: 600px 
 }
 
 
 h1 {
     font-family: "Apple Chancery", Times, serif;
+}
+ol {
+	font-family: "HERCULANUM"
 }
